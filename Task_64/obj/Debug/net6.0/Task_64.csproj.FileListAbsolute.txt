@@ -1,0 +1,15 @@
+D:\Frontend\HomeWork09\Task_64\bin\Debug\net6.0\Task_64.exe
+D:\Frontend\HomeWork09\Task_64\bin\Debug\net6.0\Task_64.deps.json
+D:\Frontend\HomeWork09\Task_64\bin\Debug\net6.0\Task_64.runtimeconfig.json
+D:\Frontend\HomeWork09\Task_64\bin\Debug\net6.0\Task_64.dll
+D:\Frontend\HomeWork09\Task_64\bin\Debug\net6.0\Task_64.pdb
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.csproj.AssemblyReference.cache
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.AssemblyInfoInputs.cache
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.AssemblyInfo.cs
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.csproj.CoreCompileInputs.cache
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.dll
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\refint\Task_64.dll
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.pdb
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\Task_64.genruntimeconfig.cache
+D:\Frontend\HomeWork09\Task_64\obj\Debug\net6.0\ref\Task_64.dll
